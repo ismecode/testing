@@ -2,3 +2,5 @@ git
 first
 fiel
 wrong
+wrong
+merge
