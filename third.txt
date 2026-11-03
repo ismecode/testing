@@ -1,1 +1,2 @@
-new third file
+this is new third text file! :)
+new line
