@@ -1,2 +1,2 @@
-this is first.txt file
 new line
+and this is first line
