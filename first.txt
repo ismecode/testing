@@ -1,2 +1,4 @@
-this is first.txt file
-new line
+git
+first
+fiel
+wrong
